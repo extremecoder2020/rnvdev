@@ -1,5 +1,6 @@
 <h1 align="center">
-  🌟
+  👾
+  <br>
   Hi I'm Raphael Viana
 </h1>
 
