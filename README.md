@@ -1,7 +1,7 @@
 <h1 align="center">
   👾
   <br>
-  Hi I'm Raphael Viana
+  Hi! I'm Raphael Viana
 </h1>
 
 <h3 align="center">
