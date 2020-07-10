@@ -9,7 +9,4 @@
   </a>
   <a href="https://www.instagram.com/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87144968-f62c7d00-c27e-11ea-90db-830adfc305ef.png" alt="Instagram icon">   </a>  
   <a href="https://www.linkedin.com/in/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87144785-b5346880-c27e-11ea-9616-34add0459721.png" alt="Linkedin icon">   </a>
-  <a href="https://dev.to/rnvdev">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Raphael Viana's DEV Profile" height="30" width="30">
-  </a>
 </h3>
