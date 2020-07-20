@@ -1,6 +1,6 @@
 
   Hi!
-  
+  ![Codewars badge](https://www.codewars.com/users/rnvdev/badges/large)
 
 ---
 
