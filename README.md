@@ -1,5 +1,7 @@
 
   Hi!
+  
+  [](https://www.codewars.com/users/rnvdev/badges/small)
 ---
 
 - I'm JavaScript developer. Learn, teach and share topics around JavaScript, is part of my day, and i love it.
