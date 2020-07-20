@@ -1,6 +1,9 @@
 
   Hi!
 ---
+
+- I'm JavaScript developer. Learn, teach and share topics around JavaScript, is part of my day, and i love it.
+- Think, code and share!
 <nav>
   <a href="https://www.twitter.com/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87145094-325fdd80-c27f-11ea-8cc6-2efd527909ac.png" alt="Twitter icon">
   </a>
