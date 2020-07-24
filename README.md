@@ -1,7 +1,7 @@
 
   Hi!
   
-➡️ I'm <em>JavaScript developer</em>. Learn, teach and share topics around JavaScript, is part of my day, and i love it.  
+➡️ I'm <em>JavaScript developer</em> that loves Bash. Learn, teach and share topics around JavaScript, is part of my day, and i love it.  
 
 ➡️ My tech cards in my (<a href="https://www.instagram.com/rnvdev">instagram</a>) are made with PhotoShop and prototypes with Figma.
 
