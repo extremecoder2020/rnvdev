@@ -2,6 +2,7 @@
   Hi!
   
 - I'm JavaScript developer. Learn, teach and share topics around JavaScript, is part of my day, and i love it.
+- I like make some design stuffs in my tech cards (instagram) with PhotoShop and prototypes in Figma.
 - Think, code and share!
 
 
