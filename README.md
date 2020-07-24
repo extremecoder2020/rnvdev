@@ -3,7 +3,7 @@
   
 ➡️ I'm JavaScript developer. Learn, teach and share topics around JavaScript, is part of my day, and i love it.  
 
-➡️ My tech cards (<a href="https://www.instagram.com/rnvdev">instagram</a> are made with PhotoShop and prototypes with Figma.
+➡️ My tech cards in my (<a href="https://www.instagram.com/rnvdev">instagram</a>) are made with PhotoShop and prototypes with Figma.
 
 ➡️ I'm in progress with React (and your ecosystem), Node, TypeScript and PostgreSQL.
 
