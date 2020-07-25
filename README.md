@@ -1,6 +1,6 @@
 *const* rnvdev = {<br>
 skills: ['html','css','javascript', 'bash'],<br>
-progresso: ['react', 'styled components', 'redux', 'router', 'typescript', 'postgresql'],<br>
+progress: ['react', 'styled components', 'redux', 'router', 'typescript', 'postgresql'],<br>
 hobby: ['rust', 'go', 'singing', 'drawn','posting tech],<br>
 design: ['photoshop', 'figma'],<br>
 job: ['freelancer','looking for job'],<br>
