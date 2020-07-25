@@ -1,22 +1,9 @@
-
-  Hi!
-  
-➡️ I'm <em>JavaScript developer</em> that loves Bash. Learn, teach and share topics around JavaScript, is part of my day, and i love it.  
-
-➡️ My tech cards in my (<a href="https://www.instagram.com/rnvdev">instagram</a>) are made with PhotoShop and prototypes with Figma.
-
-➡️ I'm in progress with React (and your ecosystem), Node, TypeScript and PostgreSQL.
-
-➡️ In my radar we have Golang and Rust.
-
-☑️ Think, code and share!
-
-
----
- ![Codewars badge](https://www.codewars.com/users/rnvdev/badges/small)
-<nav>
-  <a href="https://www.twitter.com/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87145094-325fdd80-c27f-11ea-8cc6-2efd527909ac.png" alt="Twitter icon">
-  </a>
-  <a href="https://www.instagram.com/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87144968-f62c7d00-c27e-11ea-90db-830adfc305ef.png" alt="Instagram icon">   </a>  
-  <a href="https://www.linkedin.com/in/rnvdev"><img src="https://user-images.githubusercontent.com/45907874/87144785-b5346880-c27e-11ea-9616-34add0459721.png" alt="Linkedin icon">   </a>
-</nav>
+*const* rnvdev = {<br>
+skills:['html','css','javascript', 'bash'],<br>
+progresso:['react', 'styled components', 'redux', 'router', 'typescript', 'postgresql'],<br>
+hobby:['rust', 'go', 'singing', 'drawn','posting tech],<br>
+design:['photoshop', 'figma'],<br>
+job:['freelancer','looking for job'],<br>
+codewars:[![Codewars badge](https://www.codewars.com/users/rnvdev/badges/small)],<br>
+social:[<a href="https://www.twitter.com/rnvdev">twitter</a>, <a href="https://www.instagram.com/rnvdev">instagram</a>, <a href="https://www.linkedin.com/in/rnvdev">linkedin</a>]<br>
+};
