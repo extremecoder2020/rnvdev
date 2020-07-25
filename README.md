@@ -1,4 +1,4 @@
-<div>*const* rnvdev =</div> {<br>
+*const* ***rnvdev*** = {<br>
   *skills:* ***['html','css','javascript', 'bash']***,<br>
   *progress:* ***['react', 'styled components', 'redux', 'router', 'typescript', 'postgresql']***,<br>
   *hobby:* ***['rust', 'go', 'singing', 'drawn','posting tech]***,<br>
