@@ -8,8 +8,3 @@
   *social:* **[<a href="https://www.twitter.com/rnvdev">twitter</a>, <a href="https://www.instagram.com/rnvdev">instagram</a>, <a href="https://www.linkedin.com/in/rnvdev">linkedin</a>]**<br>
 };
 
-
-
-<script>
-fetch('https://www.codewars.com/api/v1/users/rnvdev').then(`${username}:${honor}`);
-</script>
