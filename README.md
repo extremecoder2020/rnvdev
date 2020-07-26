@@ -10,5 +10,6 @@
 
 
 
-
+<script>
 fetch('https://www.codewars.com/api/v1/users/rnvdev').then(`${username}:${honor}`);
+</script>
