@@ -1,7 +1,7 @@
 *const* ***rnvdev*** = {<br>
   *skills:* **['html','css','javascript', 'bash']**,<br>
   *progress:* **['react', 'styled components', 'redux', 'router', 'typescript', 'postgresql']**,<br>
-  *hobby:* **['rust', 'go', 'singing', 'drawn','posting tech]**,<br>
+  *hobby:* **['c/c++', 'singing', 'drawn','posting tech]**,<br>
   *design:* **['photoshop', 'figma']**,<br>
   *job:* **['freelancer','looking for job']**,<br>
   *codewars:* **[![Codewars badge](https://www.codewars.com/users/rnvdev/badges/micro)]**,<br>
