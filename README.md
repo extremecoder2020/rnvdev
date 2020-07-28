@@ -6,4 +6,4 @@ rnvdev:<br>
 🧊 ***EXPERIMENTS***: APIs | RUST.<br>
 🧊 ***HOBBY***: DRAWN | MUSIC | BROOKLYN 99.<br>
 
-📷 I have a project in <a href="http://instagram.com/rnvdev>instagram">instagram</a>, it's tech cards, follow me!
+📷 I have a project at <a href="http://instagram.com/rnvdev>instagram">instagram</a>, it's tech cards, follow me!
