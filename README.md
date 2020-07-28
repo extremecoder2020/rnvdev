@@ -5,6 +5,7 @@
 🔘  *DESIGN*: **PHOTOSHOP | FIGMA.**<br>
 🔘  *EXPERIMENTS*: **APIs | RUST | PYTHON.**<br>
 🔘  *HOBBY*: **DRAWN | MUSIC | BROOKLYN 99.**<br>
+🟢 **open to work**
 
 ✉️ rnasviana.contato@gmail.com
 
