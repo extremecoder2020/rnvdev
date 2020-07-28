@@ -1,4 +1,4 @@
-🎈🧛‍ rnvdev:<br>
+rnvdev:<br>
 ---
 🧊 **KNOW**: HTML | CSS | JAVASCRIPT | BASH | VERCEL.<br>
 🧊 **IN PROGRESS**: REACT | ROUTER | REDUX | STYLED-COMPONENT | POSTGRESQL | MONGODB.<br>
