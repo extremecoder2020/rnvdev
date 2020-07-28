@@ -6,6 +6,8 @@
 🔘  *EXPERIMENTS*: **APIs | RUST.**<br>
 🔘  *HOBBY*: **DRAWN | MUSIC | BROOKLYN 99.**<br>
 
+✉️ rnasviana.contato@gmail.com
+
 ---
 
 📷 I have a project at <a href="http://instagram.com/rnvdev>instagram">instagram</a>, it's tech cards. Follow me!
