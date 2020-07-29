@@ -4,7 +4,7 @@
 🔘   *IN PROGRESS*: **REACT | ROUTER | REDUX | STYLED-COMPONENT | POSTGRESQL | MONGODB.**<br>
 🔘   *DESIGN*: **PHOTOSHOP | FIGMA.**<br>
 🔘   *EXPERIMENTS*: **APIs | RUST | PYTHON.**<br>
-🔘   *HOBBY*: **DRAWN | MUSIC | BROOKLYN 99.**<br>
+🔘   *HOBBY*: **DRAWN | MUSIC | BROOKLYN 99 | RUNNING.**<br>
 🟢  **OPEN TO WORK**
 
 ✉️ rnasviana.contato@gmail.com
