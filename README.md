@@ -1,10 +1,10 @@
 👨‍🚀 RAPHAEL VIANA (rnvdev) <br>
 ---
-╔  HTML | CSS | JAVASCRIPT | TYPESCRIPT | BASH | VERCEL.<br>
-╟ REACT | ROUTER | REDUX | STYLED-COMPONENT | POSTGRESQL | MONGODB.<br>
-╟ PHOTOSHOP | FIGMA.<br>
-╟ APIs | RUST | PYTHON.<br>
-╚ DRAWN | MUSIC | BROOKLYN 99 | RUNNING.<br>
+╔─ready: HTML | CSS | JAVASCRIPT | TYPESCRIPT | BASH | VERCEL.<br>
+╟─in progress: REACT | ROUTER | REDUX | STYLED-COMPONENT | POSTGRESQL | MONGODB.<br>
+╟─design: PHOTOSHOP | FIGMA.<br>
+╟─experiments: APIs | RUST | PYTHON.<br>
+╚─free time: DRAWN | MUSIC | BROOKLYN 99 | RUNNING.<br>
 
 🟢  **OPEN TO WORK**
 ✉️ rnasviana.contato@gmail.com
