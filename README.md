@@ -1,4 +1,4 @@
-👨‍🚀 RAPHAEL VIANA (rnvdev) <br>
+RAPHAEL VIANA (rnvdev) <br>
 ---
 **work with:** html, css, javascript, typescript, bash and vercel.<br>
 **in progress:** react, router, redux, nextjs, tdd, styled-component, postgresql and mongodb.<br>
