@@ -11,4 +11,4 @@ RAPHAEL VIANA (rnvdev) <br>
 
 ---
 
-📷 I have a project at <a href="http://instagram.com/rnvdev">instagram">instagram</a>, it's tech cards. Follow me!
+📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
