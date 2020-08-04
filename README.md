@@ -6,7 +6,7 @@ RAPHAEL VIANA (rnvdev) <br>
 **experiments:** apis, Golang and python.<br>
 **free time:** drawn, music, netflix, brooklyn 99 and running.<br>
 
-🟢  **OPEN TO WORK**<br>
+🟢 **OPEN TO WORK**<br>
 ✉️ rnasviana.contato@gmail.com
 
 ---
