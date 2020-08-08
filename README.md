@@ -4,7 +4,7 @@ RAPHAEL VIANA (rnvdev) <br>
 **in progress:** react, router, redux, node, tdd, styled-component, postgresql and mongodb.<br>
 **design:** photoshop and figma.<br>
 **experiments:** apis, Golang and python.<br>
-**free time:** drawn, music, netflix, brooklyn 99 and running.<br>
+**free time:** drawn, music, netflix, and running.<br>
 
 🟢 **OPEN TO WORK**<br>
 ✉️ rnasviana.contato@gmail.com
