@@ -7,6 +7,7 @@ RAPHAEL VIANA (rnvdev) <br>
 **design:** photoshop and figma.<br>
 **experiments:** apis, Golang and python.<br>
 **free time:** drawn, music, netflix, and running.<br>
+**tools:** linux, vscode, chrome, simplenote and insomnia.
 
 🟢 **OPEN TO WORK**<br>
 ✉️ rnasviana.contato@gmail.com
