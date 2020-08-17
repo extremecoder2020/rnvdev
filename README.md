@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/45907874/89719338-a7692480-d99d-11ea-9d26-4ad363b7abe1.jpg"/>
-
 RAPHAEL VIANA (rnvdev) <br>
 ---
 **work with:** html, css, javascript, typescript, nextjs, bash and vercel.<br>
