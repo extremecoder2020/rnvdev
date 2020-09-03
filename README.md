@@ -1,7 +1,6 @@
 RAPHAEL VIANA (rnvdev) <br>
 ---
-**Hey**!<br> 
-I'm **Raphael Viana**, from **Brazil** (Rio de Janeiro).<br>
+I'm from **Brazil** (Rio de Janeiro).<br>
 
 - I love to learn, the process to learn makes me happy, i don't know maybe ceretonine?<br>
 - So it's difficult to me keep my whole life only in one technology, as can you see in my repository.<br>
