@@ -9,7 +9,7 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 <br>
 
 🟢 **OPEN TO WORK**<br>
-✉️ rnasviana.contato@gmail.com
+✉️ rnvdev.contato@gmail.com
 
 ---
 
