@@ -12,5 +12,4 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 ✉️ rnvdev.contato@gmail.com
 
 ---
-
 📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
