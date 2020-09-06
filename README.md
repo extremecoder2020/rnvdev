@@ -8,8 +8,7 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 - I always seek my best, each day it's a day to improve myself as human and professional.
 <br>
 
-🟢 **OPEN TO WORK**<br>
-✉️ rnvdev.contato@gmail.com
+🟢 **OPEN TO WORK:** rnvdev.contato@gmail.com
 
 ---
 📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
