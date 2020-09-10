@@ -4,6 +4,7 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 
 - I love to learn, the learning process, makes me happy. I don't know maybe Sérotonine?<br>
 - I'm focus in Java and JavaScript stack.<br>
+- In free time i learn more about c#, i like running, watch good films, series and listen music.
 - I recognize myself as etenity learner and don't use much labels about that.
 - I always seek my best, each day it's a day to improve myself as human and professional.
 <br>
